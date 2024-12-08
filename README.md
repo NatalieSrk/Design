@@ -1,2 +1,1 @@
-# Design
-Test design and documentation tasks
+# Test design techniques
